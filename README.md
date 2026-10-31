@@ -3,7 +3,6 @@
 Static landing page for Bagels & Stuff (Kfar Saba). Plain HTML, CSS and JS with no build step.
 
 - `index.html`: home page
-- `visit.html`: how to get there
 - `accessibility.html`: accessibility statement
 - `css/`, `js/`, `images/`: assets
 
