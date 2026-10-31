@@ -63,6 +63,8 @@ footer.site .cols{display:grid;gap:24px}
 @media(min-width:800px){footer.site .cols{grid-template-columns:repeat(3,1fr)}}
 .text-page{max-width:760px}
 .text-page h2{font-size:1.9rem;margin-top:1.6em}
+.back-link{display:inline-flex;align-items:center;gap:8px;min-height:44px;font-weight:700}
+.back-link span{font-size:1.2em}
 .todo{background:#FFF3C4;border:2px dashed var(--brass);padding:2px 8px;border-radius:4px}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
 
